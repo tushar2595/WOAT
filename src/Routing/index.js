@@ -6,6 +6,7 @@ import {
   Link
 } from "react-router-dom";
 import Landing from './Landing';
+import Pagenotfound from './NotFound';
 
 class AppRoutes extends Component {
   render() {
@@ -14,6 +15,7 @@ class AppRoutes extends Component {
         <Router>
           <Switch>
             <Route exact path="/" component={Landing} />
+            <Route component={Pagenotfound} />
           </Switch>
         </Router>
       </div>
