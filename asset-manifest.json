@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/.github.io/WOAT/static/css/main.1925c372.chunk.css",
+    "main.js": "/.github.io/WOAT/static/js/main.aa88bf45.chunk.js",
+    "main.js.map": "/.github.io/WOAT/static/js/main.aa88bf45.chunk.js.map",
+    "runtime-main.js": "/.github.io/WOAT/static/js/runtime-main.18caf936.js",
+    "runtime-main.js.map": "/.github.io/WOAT/static/js/runtime-main.18caf936.js.map",
+    "static/css/2.9c8c8187.chunk.css": "/.github.io/WOAT/static/css/2.9c8c8187.chunk.css",
+    "static/js/2.9f156700.chunk.js": "/.github.io/WOAT/static/js/2.9f156700.chunk.js",
+    "static/js/2.9f156700.chunk.js.map": "/.github.io/WOAT/static/js/2.9f156700.chunk.js.map",
+    "index.html": "/.github.io/WOAT/index.html",
+    "precache-manifest.2bad1fce13cb21a863c99768b1ab8c58.js": "/.github.io/WOAT/precache-manifest.2bad1fce13cb21a863c99768b1ab8c58.js",
+    "service-worker.js": "/.github.io/WOAT/service-worker.js",
+    "static/css/2.9c8c8187.chunk.css.map": "/.github.io/WOAT/static/css/2.9c8c8187.chunk.css.map",
+    "static/css/main.1925c372.chunk.css.map": "/.github.io/WOAT/static/css/main.1925c372.chunk.css.map",
+    "static/js/2.9f156700.chunk.js.LICENSE.txt": "/.github.io/WOAT/static/js/2.9f156700.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18caf936.js",
+    "static/css/2.9c8c8187.chunk.css",
+    "static/js/2.9f156700.chunk.js",
+    "static/css/main.1925c372.chunk.css",
+    "static/js/main.aa88bf45.chunk.js"
+  ]
+}
