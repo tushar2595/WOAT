@@ -14,8 +14,8 @@ class AppRoutes extends Component {
       <div>
         <Router>
           <Switch>
-            <Route exact path="/" component={Landing} />
-            <Route component={Pagenotfound} />
+            <Route exact path="/WOAT" component={Landing} />
+            {/* <Route component={Pagenotfound} /> */}
           </Switch>
         </Router>
       </div>
